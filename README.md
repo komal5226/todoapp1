@@ -9,7 +9,7 @@ Technologies Used
 •	AWS EC2 (for deployment)
 Getting Started Locally
 Step 1: Clone the Repository
-git clone https://github.com/YourUsername/Todoapp.git
+git clone https://github.com/komal5226/todoapp1.git
 cd Todoapp
 Step 2: Install Java (JDK 17 or higher)
 Make sure that Java 17 (or higher) is installed on your system. You can verify this by running:
